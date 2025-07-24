@@ -10,6 +10,6 @@ crate-type = ["cdylib"]
 
 [dependencies]
 arboard = "3.6.0"
-nocast_plugincore = { git = "https://github.com/roger-padrell/nocast_plugincore" }
+nocast_plugincore = { git = "https://github.com/nocast/plugincore" }
 rayon = "1.10.0"
 walkdir = "2.5.0"
